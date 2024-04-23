@@ -150,7 +150,6 @@ export function App() {
           />
           <MultiButton
             options={[
-              { label: "Last Week", value: Period.LAST_WEEK },
               { label: "Last Month", value: Period.LAST_MONTH },
               { label: "Last Year", value: Period.LAST_YEAR },
             ]}
